@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lewiseman
-- 👀 I’m interested in ... python
-- 🌱 I’m currently learning ... js
-- 💞️ I’m looking to collaborate on ... any new AND BIGINNER projects
+- 👀 I’m interested in ... python and dart
+- 🌱 I’m currently learning ... flutter
+- 💞️ I’m looking to collaborate on ... any new and exciting projects
 - 📫 How to reach me ...
 
 <!---
