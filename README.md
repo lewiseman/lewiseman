@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lewiseman
 - 👀 I’m interested in ... python and dart
-- 🌱 Also intrested in daart with ... flutter
+- 🌱 Also intrested in dart with ... flutter
 - 💞️ I’m looking to collaborate on ... any new and exciting projects
 - 📫 How to reach me ... gmail: lewisemann@gmail.com
 
