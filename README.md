@@ -6,9 +6,9 @@
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lewiseman)
 ![Twitter Follow](https://img.shields.io/twitter/follow/LewisM09829923?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
-### I am a software developer, student, **friend**
+### I am a software developer, student, friend
 ---
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lewiseman&hide_border=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lewiseman&hide_border=true&show_icons=true&theme=radical&title_color=606060&text_color=606060&bg_color=00000000">
 
 - 👀 I’m interested in ... python, dart, flutter and c++
 - 💞️ I’m looking to collaborate on any new and exciting projects
