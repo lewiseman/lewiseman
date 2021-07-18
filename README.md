@@ -8,10 +8,10 @@
 	<a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://twitter.com/imakash3011"><img alt="twitter" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
-### I am a software developer, student, friend
+
+### I am a software developer, student, friend ...
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lewiseman&hide_border=true&show_icons=true&theme=radical&bg_color=00000000">
-
 <br/>
 
 - 👀 I’m interested in ... python, dart, flutter and c++
