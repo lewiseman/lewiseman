@@ -10,7 +10,9 @@
 </p>
 
 ### I am a software developer, student, friend ...
+
 ---
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lewiseman&hide_border=true&show_icons=true&theme=radical&bg_color=00000000">
 <br/>
 
@@ -19,14 +21,17 @@
 - 📫 How to reach me ... gmail: lewisemann@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiseman&layout=compact&hide_border=true&show_icons=true&theme=radical&bg_color=00000000)
+
 ---
+
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
+### Listening to 🎧
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
 
 ---
+
 ### 🛠 &nbsp;Tech Stack
  > #### Languages
  >> ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -49,6 +54,7 @@
 >> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg" alt="angular-js" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/svelte.svg" alt="svelte" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/windicss.svg" alt="Windi CSS" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gulp.svg" alt="gulp" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" alt="java" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/csharp.svg" alt=".NET" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" alt="nodejs" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" alt="python" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nginx.svg" alt="nginx" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cucumber.svg" alt="cucumber" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/netlify.svg" alt="netlify" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="heroku" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/circleci_light.svg" alt="circleci" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-aws.svg" alt="aws" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gcp.svg" alt="gcp" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/azure.svg" alt="azure" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/terraform.svg" alt="Terraform" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jenkins.svg" alt="Jenkins" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="Docker" width="25" height="25" /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-kubernetes.svg" alt="Kubernetes" width="25" height="25" />
 
 ---
+
 <!-- Profile Trophy -->
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -56,10 +62,10 @@
 </a>
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiseman&theme=dark" width="48%" >
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lewiseman&theme=dark" width="48%" >
 
 
-#### Visitors today
+#### Visitors today ✨
 ![Visitor Count](https://profile-counter.glitch.me/{lewiseman}/count.svg)
 
 <!---
