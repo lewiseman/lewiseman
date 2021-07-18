@@ -1,12 +1,11 @@
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
-
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Lewis - aka lewiseman
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewis-m-547812213/)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lewiseman)
 ![Twitter Follow](https://img.shields.io/twitter/follow/LewisM09829923?color=1DA1F2&logo=Twitter&style=for-the-badge)
-
-### I am a software developer, student, friend
+---
+### I am a software developer, student, **friend**
 - 👀 I’m interested in ... python and dart
 - 🌱 Also intrested in dart with ... flutter
 - 💞️ I’m looking to collaborate on ... any new and exciting projects
