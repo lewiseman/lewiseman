@@ -8,16 +8,13 @@
 
 ### I am a software developer, student, **friend**
 ----
-- 👀 I’m interested in >: python, dart, flutter and c++
-- 🌱 Also intrested in dart with ... flutter
-- 💞️ I’m looking to collaborate on ... any new and exciting projects
+- 👀 I’m interested in ... python, dart, flutter and c++
+- 💞️ I’m looking to collaborate on any new and exciting projects
 - 📫 How to reach me ... gmail: lewisemann@gmail.com
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lucafluri&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
 
-- ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiseman&layout=compact)
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewiseman)](https://github.com/anuraghazra/github-readme-stats)
