@@ -61,6 +61,11 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=lewiseman&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 
+<details>
+  <summary>:zap: Github Streaks</summary>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiseman&theme=dark" width="48%" >
+</details>
+
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiseman&theme=dark" width="48%" >
 
