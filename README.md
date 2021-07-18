@@ -18,16 +18,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiseman&layout=compact&hide_border=true&show_icons=true&theme=radical&bg_color=00000000)
 
+---
+
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiseman&theme=dark" width="48%" >
 
 
 
-
-
-
-
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### 🛠 &nbsp;Tech Stack
