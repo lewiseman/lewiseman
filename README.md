@@ -9,6 +9,12 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewiseman&count_private=true)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ 
+ ### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
 
 
 
