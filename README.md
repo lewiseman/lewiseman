@@ -66,6 +66,8 @@
                           
 <details>
   <summary>:zap: Github Streaks</summary>
+	<br />
+<br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiseman&theme=dark" width="48%" >
 </details>
 
