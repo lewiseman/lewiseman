@@ -16,6 +16,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lewiseman&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
