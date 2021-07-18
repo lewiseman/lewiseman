@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lewiseman)
 ![Twitter Follow](https://img.shields.io/twitter/follow/LewisM09829923?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
-### I am a software developer
+### I am a software developer, student, friend
 - 👀 I’m interested in ... python and dart
 - 🌱 Also intrested in dart with ... flutter
 - 💞️ I’m looking to collaborate on ... any new and exciting projects
