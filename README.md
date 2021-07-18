@@ -9,13 +9,14 @@
 ### I am a software developer, student, friend
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lewiseman&hide_border=true&show_icons=true&theme=radical&bg_color=00000000">
-<p align="right"> hello</p>
 
 <br/>
 
 - 👀 I’m interested in ... python, dart, flutter and c++
 - 💞️ I’m looking to collaborate on any new and exciting projects
 - 📫 How to reach me ... gmail: lewisemann@gmail.com
+- 
+<p align="right"> hello</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiseman&layout=compact&hide_border=true&show_icons=true&theme=radical&bg_color=00000000)
 
