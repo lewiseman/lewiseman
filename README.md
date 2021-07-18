@@ -21,7 +21,7 @@
 ---
 
 ### 🛠 &nbsp;Tech Stack
-#### Languages
+ > #### Languages
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiseman&theme=dark" width="48%" >
