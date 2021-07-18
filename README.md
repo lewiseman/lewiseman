@@ -40,6 +40,29 @@
 ![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 
 
+
+### Feel Free to Contact me.....
+
+<p align="center">
+	<a href="https://github.com/imakash3011"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/imakash3011/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/imakash3011/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://twitter.com/imakash3011"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+</p>
+
+### Programming Languages....
+
+<p align="center">
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+</p>
+
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{imakash3011}/count.svg)
+
+
 <!---
 lewiseman/lewiseman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
