@@ -8,13 +8,14 @@
 
 ### I am a software developer, student, **friend**
 ---
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucafluri&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lewiseman&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
+
 - 👀 I’m interested in ... python, dart, flutter and c++
 - 💞️ I’m looking to collaborate on any new and exciting projects
 - 📫 How to reach me ... gmail: lewisemann@gmail.com
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucafluri&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
+
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiseman&layout=compact)
