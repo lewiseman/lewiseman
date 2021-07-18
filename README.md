@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lewiseman)
 ![Twitter Follow](https://img.shields.io/twitter/follow/LewisM09829923?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/imakash3011"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/imakash3011/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/imakash3011/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
