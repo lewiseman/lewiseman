@@ -8,7 +8,7 @@
 
 ### I am a software developer, student, **friend**
 ----
-- 👀 I’m interested in ... python and dart
+- 👀 I’m interested in >: python, dart, flutter and c++
 - 🌱 Also intrested in dart with ... flutter
 - 💞️ I’m looking to collaborate on ... any new and exciting projects
 - 📫 How to reach me ... gmail: lewisemann@gmail.com
