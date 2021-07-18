@@ -3,6 +3,9 @@
 - 🌱 Also intrested in dart with ... flutter
 - 💞️ I’m looking to collaborate on ... any new and exciting projects
 - 📫 How to reach me ... gmail: lewisemann@gmail.com
+- 
+- ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiseman&layout=compact)
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewiseman)](https://github.com/anuraghazra/github-readme-stats)
