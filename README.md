@@ -5,6 +5,8 @@
 - 📫 How to reach me ... gmail: lewisemann@gmail.com
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiseman&layout=compact)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewiseman)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 lewiseman/lewiseman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
