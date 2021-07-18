@@ -74,7 +74,7 @@
 </p>
 
 
-#### Profile views counter
+#### Visitors today
 ![Visitor Count](https://profile-counter.glitch.me/{lewiseman}/count.svg)
 
 <!---
