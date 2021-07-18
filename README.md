@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... any new and exciting projects
 - 📫 How to reach me ... gmail: lewisemann@gmail.com
 ### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisweman&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiseman&layout=compact)
 
 <!---
 lewiseman/lewiseman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
