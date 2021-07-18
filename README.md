@@ -7,9 +7,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/LewisM09829923?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 ### I am a software developer, student, **friend**
-----
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucafluri&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucafluri&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
+----
 - 👀 I’m interested in ... python, dart, flutter and c++
 - 💞️ I’m looking to collaborate on any new and exciting projects
 - 📫 How to reach me ... gmail: lewisemann@gmail.com
