@@ -1,3 +1,4 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Lewis - aka lewiseman
 - 👋 Hi, I’m @lewiseman
 - 👀 I’m interested in ... python and dart
 - 🌱 Also intrested in dart with ... flutter
