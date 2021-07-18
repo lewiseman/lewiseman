@@ -21,7 +21,7 @@
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiseman&theme=dark" width="48%" >
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiseman&layout=compact&hide_border=true&show_icons=true&theme=radical&bg_color=00000000">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiseman&hide_border=true&show_icons=true&theme=radical&bg_color=00000000">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiseman&layout=compact&hide_border=true&show_icons=true&theme=radical&bg_color=00000000)
 
