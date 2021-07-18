@@ -62,7 +62,7 @@
 </a>
 
 ### Github Streaks
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lewiseman&theme=dark" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiseman&theme=dark" width="48%" >
 
 
 #### Visitors today ✨
