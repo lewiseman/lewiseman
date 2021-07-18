@@ -62,7 +62,7 @@
 </a>
 
 <details>
-  <summary>:zap: ### Github Streaks</summary>
+  <summary>:zap: Github Streaks</summary>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiseman&theme=dark" width="48%" >
 </details>
 
