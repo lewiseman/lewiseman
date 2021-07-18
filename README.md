@@ -9,8 +9,6 @@
 ### I am a software developer, student, friend
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lewiseman&hide_border=true&show_icons=true&theme=radical&bg_color=00000000">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lewiseman&hide_border=true&show_icons=true&theme=radical&bg_color=00000000">
-
 
 <br/>
 
@@ -18,15 +16,15 @@
 - 💞️ I’m looking to collaborate on any new and exciting projects
 - 📫 How to reach me ... gmail: lewisemann@gmail.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiseman&layout=compact&hide_border=true&show_icons=true&theme=radical&bg_color=00000000)
+
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiseman&theme=dark" width="48%" >
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiseman&layout=compact&hide_border=true&show_icons=true&theme=radical
-&bg_color=00000000">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiseman&layout=compact&hide_border=true&show_icons=true&theme=radical&bg_color=00000000)
 
- <div style="text-align: right"> your-text-here </div>
+
+
 
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
