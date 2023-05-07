@@ -23,14 +23,6 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Listening to 🎧
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31mzlxqdfe5tgkmruojd3vyqj2ri)
-
----
-
 ### 🛠 &nbsp;Tech Stack
  > #### Languages
  >> ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -73,7 +65,7 @@
 
 
 
-#### Visitors today ✨
+#### Profile Visitors ✨
 ![Visitor Count](https://profile-counter.glitch.me/{lewiseman}/count.svg)
 
 <!---
