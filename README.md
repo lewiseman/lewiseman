@@ -9,14 +9,13 @@
 ### Upon the winds of Flutter and Svelte, my heart sails with fervor. With Golang, I stand shield-to-shield in respect. In the hallowed halls, I heed the whispers of C++ and, under the moon, I frolic in Python's serpentine embrace
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lewiseman&hide_border=true&show_icons=true&theme=radical&bg_color=00000000">
-<br/>
+
 
 - 👀 I’m interested in ... python, dart, flutter and c++
 - 💞️ I’m looking to collaborate on any new and exciting projects
 - 📫 How to reach me ... gmail: lewisemann@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiseman&layout=compact&hide_border=true&show_icons=true&theme=radical&bg_color=00000000)
+
 
 ---
 
@@ -43,27 +42,9 @@
 
 ---
 
-<!-- Profile Trophy -->
-### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lewiseman&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
-<br />
-<br />
-<br />
-                          
-<details>
-  <summary>:zap: Github Streaks</summary>
-	<br />
-<br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiseman&theme=dark" width="48%" >
-</details>
 
+<br />
 
-
-
-#### Profile Visitors ✨
-![Visitor Count](https://profile-counter.glitch.me/{lewiseman}/count.svg)
 
 <!---
 lewiseman/lewiseman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
